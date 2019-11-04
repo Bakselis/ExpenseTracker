@@ -8,7 +8,7 @@ You can add your transactions to this app and it will display chart of spending 
 
 ## InterFace
 
-![App ScreeShot1](/screenshots/app.png)
+![App ScreeShot1](/screenshots/app.png){:height="50%" width="50%"}
 
 ![App ScreeShot2](/screenshots/app2.png)
 
