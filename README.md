@@ -1,5 +1,7 @@
 # ExpenseTracker
 
+*This project is still in progress*
+
 Flutter project "Expense Tracker" build for Learning
 
 ## Description
