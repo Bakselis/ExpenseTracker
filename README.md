@@ -8,4 +8,10 @@ You can add your transactions to this app and it will display chart of spending 
 
 ## InterFace
 
-** This project is still in development mode **
+![App ScreeShot1](/screenshots/app.png)
+
+![App ScreeShot2](/screenshots/app2.png)
+
+![App ScreeShot3](/screenshots/app3.png)
+
+## This project is still in development mode 
